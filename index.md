@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+### About me
 
-You can use the [editor on GitHub](https://github.com/sashok113/alexander-zakharov.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have over 3 years of experience as a php developer for magento platform. During this time I have worked with projects of various sizes (more than 30 projects). In the beginning I worked as a fullstack developer, but later my role shifted to the backend. Mostly my job was to support stores, and rarely it was additions to the functionality in accordance with the requirements of the business.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the moment I want to make my knowledge deeper and increase my programming skills. I think this will allow me to move from support to development. At the same time I want to try a new technology such as .net. It would be very interesting for me to work on projects with a full development cycle in a team under the guidance of an experienced team lead.
 
-### Markdown
+### Highlights
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Participated in over 30 projects.
 
-```markdown
-Syntax highlighted code block
+### My interests
 
-# Header 1
-## Header 2
-### Header 3
+- Workout and gym. I like the fresh air, but I also like working with weights.
+- Bicycle. I like to open new places to share them with friends.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sashok113/alexander-zakharov.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### My jobs
