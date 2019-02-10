@@ -13,4 +13,6 @@ Participated in over 30 projects.
 - Workout and gym. I like the fresh air, but I also like working with weights.
 - Bicycle. I like to open new places to share them with friends.
 
-### My jobs
+### My works
+- [Tic Tac Toe Game](https://github.com/alex-zakharov113/TicTacToe)
+- [Certificate](https://www.udemy.com/certificate/UC-B18WJLAI/)
