@@ -14,8 +14,8 @@ Participated in over 30 projects.
 - Bicycle. I like to open new places to share them with friends.
 
 ### My works
-- [Tic Tac Toe Game](https://github.com/alex-zakharov113/TicTacToe)
+- [Tic Tac Toe Game](https://github.com/alex-zakharov113/TicTacToe.git)
 - [Certificate](https://www.udemy.com/certificate/UC-B18WJLAI/)
-- [PadawansTask1](https://github.com/alex-zakharov113/PadawansTask1)
-- [PadawansTask2](https://github.com/alex-zakharov113/PadawansTask2)
-- [PadawansTask3](https://github.com/alex-zakharov113/PadawansTask3)
+- [PadawansTask1](https://github.com/alex-zakharov113/PadawansTask1.git)
+- [PadawansTask2](https://github.com/alex-zakharov113/PadawansTask2.git)
+- [PadawansTask3](https://github.com/alex-zakharov113/PadawansTask3.git)
