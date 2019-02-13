@@ -22,3 +22,4 @@ Participated in over 30 projects.
 - [FancyCalc](https://github.com/alex-zakharov113/FancyCalc.git)
 - [PadawansTask4](https://github.com/alex-zakharov113/PadawansTask4.git)
 - [PadawansTask5](https://github.com/alex-zakharov113/PadawansTask5.git)
+- [PadawansTask6](https://github.com/alex-zakharov113/PadawansTask6.git)
