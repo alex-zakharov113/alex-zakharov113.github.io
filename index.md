@@ -28,5 +28,5 @@ Participated in over 30 projects.
 - [Codewars](https://www.codewars.com/users/alex-zakharov)
 
 ### Certificates
-- [Udemy Certificate](https://www.udemy.com/certificate/UC-B18WJLAI/)
-- [SoloLearn Certificate](https://alex-zakharov113.github.io/SoloLearnCertificate.pdf)
+- [Udemy](https://www.udemy.com/certificate/UC-B18WJLAI/)
+- [SoloLearn](https://alex-zakharov113.github.io/SoloLearnCertificate.pdf)
