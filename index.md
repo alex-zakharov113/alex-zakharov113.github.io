@@ -15,7 +15,7 @@ Participated in over 30 projects.
 
 ### My works
 - [Tic Tac Toe Game](https://github.com/alex-zakharov113/TicTacToe.git)
-- [Certificate](https://www.udemy.com/certificate/UC-B18WJLAI/)
+- [Udemy Certificate](https://www.udemy.com/certificate/UC-B18WJLAI/)
 - [PadawansTask1](https://github.com/alex-zakharov113/PadawansTask1.git)
 - [PadawansTask2](https://github.com/alex-zakharov113/PadawansTask2.git)
 - [PadawansTask3](https://github.com/alex-zakharov113/PadawansTask3.git)
@@ -24,3 +24,6 @@ Participated in over 30 projects.
 - [PadawansTask5](https://github.com/alex-zakharov113/PadawansTask5.git)
 - [PadawansTask6](https://github.com/alex-zakharov113/PadawansTask6.git)
 - [PadawansTask13](https://github.com/alex-zakharov113/PadawansTask13.git)
+
+### In addition
+- [SoloLearn Certificate](https://alex-zakharov113.github.io/SoloLearnCertificate.pdf)
