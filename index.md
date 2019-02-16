@@ -23,6 +23,7 @@ Participated in over 30 projects.
 - [PadawansTask5](https://github.com/alex-zakharov113/PadawansTask5.git)
 - [PadawansTask6](https://github.com/alex-zakharov113/PadawansTask6.git)
 - [PadawansTask13](https://github.com/alex-zakharov113/PadawansTask13.git)
+- [Codewars Basic 8](https://github.com/alex-zakharov113/CWBasic08.git)
 
 ### Profiles
 - [Codewars](https://www.codewars.com/users/alex-zakharov)
