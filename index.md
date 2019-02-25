@@ -33,3 +33,4 @@ Participated in over 30 projects.
 ### Certificates
 - [Udemy](https://www.udemy.com/certificate/UC-B18WJLAI/)
 - [SoloLearn](https://alex-zakharov113.github.io/SoloLearnCertificate.pdf)
+- [MVA](https://alex-zakharov113.github.io/MvaCertificate.pdf)
