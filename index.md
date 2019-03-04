@@ -32,7 +32,8 @@ Participated in over 30 projects.
 - [PadawansTask15](https://github.com/alex-zakharov113/PadawansTask15.git)
 - [Codewars Basic 8](https://github.com/alex-zakharov113/CWBasic08.git)
 - [Codewars Basic 13](https://github.com/alex-zakharov113/CWBasic13.git)
-- [Unit and NUnit Sample Project](https://github.com/alex-zakharov113/UnitTestSample) According to tutorial both in one solution
+- [Unit and NUnit Sample Project](https://github.com/alex-zakharov113/UnitTestSample.git) According to tutorial both in one solution
+- [The First 20 Numbers of Sequence](https://github.com/alex-zakharov113/First20Numbers.git)
 
 ### Profiles
 - [Codewars](https://www.codewars.com/users/alex-zakharov)
