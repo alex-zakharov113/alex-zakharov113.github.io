@@ -14,7 +14,7 @@ Participated in over 30 projects.
 - Bicycle. I like to open new places to share them with friends.
 
 ### Home Tasks
-- [Day01](https://github.com/alex-zakharov113/HomeTasks.git)
+- [Common Repository](https://github.com/alex-zakharov113/HomeTasks.git)
 
 ### My works
 - [Tic Tac Toe Game](https://github.com/alex-zakharov113/TicTacToe.git)
